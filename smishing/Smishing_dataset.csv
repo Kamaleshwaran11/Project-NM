@@ -1,0 +1,11 @@
+message,label
+"""Congratulations! You've won a free trip to Hawaii. Click the link to claim your prize.""",smishing
+"Your account has been locked. Please click the link to verify your identity.""",smishing
+"""Hey there! Just wanted to remind you about our upcoming meeting tomorrow.""",legitimate
+,
+"""URGENT: Your package has been delivered. Click to track your shipment.""",smishing
+ ,
+"""Dear valued customer, thank you for your recent purchase. Here's a discount code for your next order.""",legitimate
+"""Your payment has been received. Thank you for your promptness.""",legitimate
+"""Claim your prize now! You've been selected as the winner of our weekly giveaway."",",smishing
+"Reminder: Your subscription will renew automatically next month. Please ensure sufficient funds in your account."",",legitimate
