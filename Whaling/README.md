@@ -37,7 +37,7 @@ The attack didn't only cost the firm financial losses, but it also cost the CEO 
 The main() function orchestrates these functions to showcase a holistic cybersecurity approach. Additional information can be added by expanding the placeholder functions with specific logic tailored to the organization's cybersecurity requirements. Each function can be further developed to enhance security measures and strengthen the overall cybersecurity posture.
 
 ## Output:
-<img src="https://Whaling/output.png">
+<img src="https://github.com/Kamaleshwaran11/Project-NM/blob/main/Whaling/output.png">
 
 ## Note:
 - This Whaling is for educational purposes only. Do not use it for malicious purposes.
