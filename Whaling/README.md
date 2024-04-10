@@ -1,27 +1,34 @@
 # Whaling
 
 ## Problem Statement:
-<p>Phishing Attack Incident in Real Time or online financials scams: <br>
+<p><b>Phishing Attack Incident in Real Time or online financials scams: </b><br>
 Examine a real-world case where a phishing attack compromised sensitive information in an organization. Discuss preventative measures and employee training programs to ensure the risks of social engineering attacks. </p>
+
+<b>Real Time Case Example:</b>Whaling Attack Leads To Firing Of FACC Boss
+In 2016, Austrian Aerospace company FACC had been subject to one of the most prominent Whaling attacks ever, dubbed the Fake President Incident, where the attacker made away with $56 million.
+
+In a classic whaling attack, the perpetrator impersonated the CEO and sending an email to an employee of the finance department requested an immediate funds transfer.
+
+The attack didn't only cost the firm financial losses, but it also cost the CEO at the time, Walter Stephan, his position. Although the details were not revealed, the sack was on the grounds of violation of duties
 
 ## Code explaination:
 <b>Email Authentication:</b> Placeholder function to implement DKIM and SPF verification.
 
 <b>User Awareness Training:</b> Placeholder function for user training modules.
 
-Email Filtering: Checks for keywords like "urgent transfer" and "CEO request" in email content.
+<b>Email Filtering:</b>Checks for keywords like "urgent transfer" and "CEO request" in email content.
 
-Multi-Factor Authentication (MFA): Placeholder function for MFA logic implementation.
+<b>Multi-Factor Authentication (MFA):</b> Placeholder function for MFA logic implementation.
 
-Transaction Monitoring: Placeholder function for monitoring transactions.
+<b>Transaction Monitoring:</b> Placeholder function for monitoring transactions.
 
-Behavioral Analytics: Placeholder function for analyzing user behavior.
+<b>Behavioral Analytics:</b>Placeholder function for analyzing user behavior.
 
-Access Control: Placeholder function for enforcing access control.
+<b>Access Control:</b> Placeholder function for enforcing access control.
 
-Incident Response Plan: Placeholder function for handling security incidents.
+<b>Incident Response Plan:</b> Placeholder function for handling security incidents.
 
-Security Auditing: Placeholder function for security auditing.
+<b>Security Auditing:</b> Placeholder function for security auditing.
 
 <b>Encryption:</b> Placeholder function for applying encryption.
 
