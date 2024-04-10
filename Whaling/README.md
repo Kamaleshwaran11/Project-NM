@@ -35,3 +35,7 @@ The attack didn't only cost the firm financial losses, but it also cost the CEO 
 <b>Send Email:</b> Function to send an email using SMTP with basic authentication.
 
 The main() function orchestrates these functions to showcase a holistic cybersecurity approach. Additional information can be added by expanding the placeholder functions with specific logic tailored to the organization's cybersecurity requirements. Each function can be further developed to enhance security measures and strengthen the overall cybersecurity posture.
+
+## Note:
+- This Whaling is for educational purposes only. Do not use it for malicious purposes.
+- Be cautious when running the Whaling, as it can log sensitive information.
